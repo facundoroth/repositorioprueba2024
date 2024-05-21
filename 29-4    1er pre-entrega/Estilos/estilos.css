@@ -1,0 +1,92 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+header
+{
+    height: 30%;
+    width: 100%;
+}
+
+main
+{
+    height: 30%;
+    width: 100%;
+}
+
+footer
+{
+    height: 10%;
+    width: 100%;
+}
+
+.botonayuda
+{
+   float: right;
+}
+
+.botoncomentarios
+{
+    float: right;
+}
+
+h1
+{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+}
+
+h2
+{
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+body
+{
+    background-image: radial-gradient(rgb(225, 225, 233),rgb(123, 238, 152));
+}
+
+.logopagina
+{
+    margin: 0%;
+    padding-left: 700px;
+}
+
+.fechas
+{
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+   }
+
+.grilla
+{
+background-color: rgba(226, 47, 7, 0.721);
+margin-left: 400px;
+font-size: 35px;
+margin-top: 50px;
+
+}
+
+.nuestrahistoria
+{
+    margin-top: 100px;
+}
+
+.parrafonuestrahistoria
+{
+    padding-top:100px;
+}
+
+.videos
+{
+text-align: center;
+
+}
